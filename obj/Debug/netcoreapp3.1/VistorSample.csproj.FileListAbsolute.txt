@@ -1,0 +1,13 @@
+D:\code\VistorSample\bin\Debug\netcoreapp3.1\VistorSample.exe
+D:\code\VistorSample\bin\Debug\netcoreapp3.1\VistorSample.deps.json
+D:\code\VistorSample\bin\Debug\netcoreapp3.1\VistorSample.runtimeconfig.json
+D:\code\VistorSample\bin\Debug\netcoreapp3.1\VistorSample.runtimeconfig.dev.json
+D:\code\VistorSample\bin\Debug\netcoreapp3.1\VistorSample.dll
+D:\code\VistorSample\bin\Debug\netcoreapp3.1\VistorSample.pdb
+D:\code\VistorSample\obj\Debug\netcoreapp3.1\VistorSample.csprojAssemblyReference.cache
+D:\code\VistorSample\obj\Debug\netcoreapp3.1\VistorSample.csproj.CoreCompileInputs.cache
+D:\code\VistorSample\obj\Debug\netcoreapp3.1\VistorSample.AssemblyInfoInputs.cache
+D:\code\VistorSample\obj\Debug\netcoreapp3.1\VistorSample.AssemblyInfo.cs
+D:\code\VistorSample\obj\Debug\netcoreapp3.1\VistorSample.dll
+D:\code\VistorSample\obj\Debug\netcoreapp3.1\VistorSample.pdb
+D:\code\VistorSample\obj\Debug\netcoreapp3.1\VistorSample.genruntimeconfig.cache
