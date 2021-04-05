@@ -78,7 +78,7 @@ namespace VistorSample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worldads!");
+            Console.WriteLine("Hello Worldads3!");
             Client c = new Client();
             c.AddToList(new Book(10));
             c.AddToList(new Article(30));
